@@ -1,6 +1,9 @@
 # Auto-Config
 A MineCraft Cheating Tool For Beginners Which Will Give You Useful Information About Anti-Cheats And Configs
 
+# Gimme A Star
+If You Like My Work Dont Forget To ⭐ It <3
+
 # Installation
 1. Install Python
 2. Run "requirements.py" To Install Required Libraries It Will Automatically Install The Required Libraries And Run "Auto-Config.py" And Remove Itself
@@ -19,6 +22,3 @@ To Run The Script Again Just Run "Auto-Config.py"
 ![image](https://github.com/Amoo-zanjirbuf/Auto-Config/assets/167916636/2a6b1bfa-86c8-462e-af3f-7f3143fa3580)
 ![image](https://github.com/Amoo-zanjirbuf/Auto-Config/assets/167916636/b92647a9-555e-4bff-bace-1f0d8baba124)
 ![image](https://github.com/Amoo-zanjirbuf/Auto-Config/assets/167916636/625d9d9d-ac49-4d1d-9712-8c22f8c6babd)
-
-# Last Words
-If You Like My Work Dont Forget To ⭐ It <3
